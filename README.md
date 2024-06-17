@@ -6,13 +6,6 @@ This is a portfolio website built using Next.js and TypeScript. The site incorpo
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Scripts](#scripts)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
