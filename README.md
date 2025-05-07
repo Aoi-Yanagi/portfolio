@@ -1,6 +1,6 @@
 # Portfolio Site
 
-This is a portfolio website built using Next.js and TypeScript. The site incorporates various frameworks and libraries to create a dynamic and visually appealing user experience.
+This is a portfolio website built using Next.js and TypeScript. The site incorporates various frameworks and libraries to create a dynamic and visually appealing user experience. LEARNT FROM A FELLOW YOUTUBE COACH (BEST EXPLANATION) . CODE IS NOT FULLY MINE !
 
 ## Table of Contents
 
